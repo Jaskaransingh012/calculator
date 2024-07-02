@@ -92,3 +92,4 @@ function operations(){
         input.value += oInner
     }
 }
+console.log("hello");
